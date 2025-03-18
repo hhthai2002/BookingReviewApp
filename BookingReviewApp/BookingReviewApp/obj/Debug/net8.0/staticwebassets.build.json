@@ -1,0 +1,2288 @@
+{
+  "Version": 1,
+  "Hash": "fJbofmVIeWtDWpx9IQtNj15WNX4j/UNLQUfO9R5w/C8=",
+  "Source": "BookingReviewApp",
+  "BasePath": "_content/BookingReviewApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookingReviewApp\\wwwroot",
+      "Source": "BookingReviewApp",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\email-templates\\reset-password.html",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "email-templates/reset-password#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7neiiv86vm",
+      "Integrity": "Xbf2ife8OT++15kuxhcqgbAgyeuM3ZEmZwOBZr6KNVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\email-templates\\reset-password.html"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\email-templates\\verify-account.html",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "email-templates/verify-account#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2zlhzfu97z",
+      "Integrity": "fkh0it7/ERtbC1fbNS797fMmNYnmb1ggLlCuO0dCBV0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\email-templates\\verify-account.html"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\1_2.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/1_2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k63bwwtqoq",
+      "Integrity": "JCsouy6oVq+ghJrrIJyTd/1QSWFn8VaZPGcG9zsIszw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1_2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\2_2.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/2_2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afhyffnkwh",
+      "Integrity": "SviLd61vzICFLzoH143LcYJ+qcggWoA3R4uLmuAdb1Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2_2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\3_1.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/3_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hps42725dk",
+      "Integrity": "VYhD1LXr2hMih+tpHy6kT2HhszeGiIf9Cr5j1jOdMWw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3_1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\4_1.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/4_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "13rzmqnclm",
+      "Integrity": "I55b4/DEajnwYPZSaEhJ/xlfN9K92VxR9TAHtFfzi5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4_1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\5_1.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/5_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bzqgs40kza",
+      "Integrity": "aefTXF57ZaSEOGgxR7msoRC2ZwtQywOTrFFkk6zB4TI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5_1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\6_1.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/6_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1tf220w4u1",
+      "Integrity": "hf6RODunFZ43anADSh1fC/qnJUE85rIQLpwbBAM5ODk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6_1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\7_1.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/7_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xdtf5jsyji",
+      "Integrity": "eyy1PgIUIeWER6PClDb+DTBOiFZkXziiSOYRwLgiYYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7_1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\8_1.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/8_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "52zmxtnv9u",
+      "Integrity": "AyA445qGJamTzX+ucAF22sZRHs8owa8kaZxF1Q5MfuU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8_1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\9.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2b9nsrq0tl",
+      "Integrity": "Iul5LbD79NDx3+yF9GRrR1f9B/B0v+dINXG+KgdHrUo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\Beefree-logo.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/Beefree-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p2gl2zx254",
+      "Integrity": "oYJJOLkAOuMmH5XYEhOdgXereHStdu5Q7VeX0jKZd/k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Beefree-logo.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-1.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/image-1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "291281xd1j",
+      "Integrity": "KpHvWWd5BL68OtK75YlsbIIOwY5KJCnP43QHW3fu+nw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image-1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-2.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/image-2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "393pdca34q",
+      "Integrity": "SeYj0jVGPIrUA+zZK9VrzsCxfduulpe7grssZv6wPRc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image-2.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-3.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/image-3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nq4t3z83zq",
+      "Integrity": "P0xUNP8Tr4dM4ZYRMH5lvj2Yy1PEExQKK85R7AFkna4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image-3.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-4.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/image-4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xczuw0n7th",
+      "Integrity": "f6HG5qUF/azxXK4qe7tBcpEH1XJnl5SEtX5WKqNTnn8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image-4.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-5.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/image-5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qfslcnxxz",
+      "Integrity": "aCy0q7VPiWr0N9IjrKR3nmGmalIb1UTb6uIHp+E3+AU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image-5.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\logo_3.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/logo_3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8zg6uhw14z",
+      "Integrity": "jGKl/+wXV5WRE4jxc5/LFHojsMTCQnsP/gDRGWM0/cg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo_3.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\logo2_1.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/logo2_1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i5mdsvjfif",
+      "Integrity": "muZ80JusPbGLxlVIii+4fKnIM8Ch8pIey41FQDK75es=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo2_1.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\onde.png",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "images/onde#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mxw1yudw1f",
+      "Integrity": "+saw8Ozu2bFLtxrol4oZ81ptpPV++X+dsWlfjnHN19U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\onde.png"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\uploads\\a27e836b-2228-499d-85fd-b06e78e70a61_stewie.jpg",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "uploads/a27e836b-2228-499d-85fd-b06e78e70a61_stewie#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gta35jcvgf",
+      "Integrity": "fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a27e836b-2228-499d-85fd-b06e78e70a61_stewie.jpg"
+    },
+    {
+      "Identity": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\uploads\\ac3d0961-d5c2-45bb-9083-18b778680541_stewie.jpg",
+      "SourceId": "BookingReviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\",
+      "BasePath": "_content/BookingReviewApp",
+      "RelativePath": "uploads/ac3d0961-d5c2-45bb-9083-18b778680541_stewie#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gta35jcvgf",
+      "Integrity": "fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\ac3d0961-d5c2-45bb-9083-18b778680541_stewie.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "email-templates/reset-password.7neiiv86vm.html",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\email-templates\\reset-password.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xbf2ife8OT++15kuxhcqgbAgyeuM3ZEmZwOBZr6KNVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 06:19:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7neiiv86vm"
+        },
+        {
+          "Name": "label",
+          "Value": "email-templates/reset-password.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xbf2ife8OT++15kuxhcqgbAgyeuM3ZEmZwOBZr6KNVU="
+        }
+      ]
+    },
+    {
+      "Route": "email-templates/reset-password.html",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\email-templates\\reset-password.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35631"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xbf2ife8OT++15kuxhcqgbAgyeuM3ZEmZwOBZr6KNVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 06:19:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xbf2ife8OT++15kuxhcqgbAgyeuM3ZEmZwOBZr6KNVU="
+        }
+      ]
+    },
+    {
+      "Route": "email-templates/verify-account.2zlhzfu97z.html",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\email-templates\\verify-account.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fkh0it7/ERtbC1fbNS797fMmNYnmb1ggLlCuO0dCBV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 02:50:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zlhzfu97z"
+        },
+        {
+          "Name": "label",
+          "Value": "email-templates/verify-account.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fkh0it7/ERtbC1fbNS797fMmNYnmb1ggLlCuO0dCBV0="
+        }
+      ]
+    },
+    {
+      "Route": "email-templates/verify-account.html",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\email-templates\\verify-account.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fkh0it7/ERtbC1fbNS797fMmNYnmb1ggLlCuO0dCBV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 02:50:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fkh0it7/ERtbC1fbNS797fMmNYnmb1ggLlCuO0dCBV0="
+        }
+      ]
+    },
+    {
+      "Route": "images/1_2.k63bwwtqoq.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\1_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JCsouy6oVq+ghJrrIJyTd/1QSWFn8VaZPGcG9zsIszw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k63bwwtqoq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1_2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JCsouy6oVq+ghJrrIJyTd/1QSWFn8VaZPGcG9zsIszw="
+        }
+      ]
+    },
+    {
+      "Route": "images/1_2.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\1_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JCsouy6oVq+ghJrrIJyTd/1QSWFn8VaZPGcG9zsIszw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JCsouy6oVq+ghJrrIJyTd/1QSWFn8VaZPGcG9zsIszw="
+        }
+      ]
+    },
+    {
+      "Route": "images/2_2.afhyffnkwh.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\2_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SviLd61vzICFLzoH143LcYJ+qcggWoA3R4uLmuAdb1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afhyffnkwh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2_2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SviLd61vzICFLzoH143LcYJ+qcggWoA3R4uLmuAdb1Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/2_2.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\2_2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SviLd61vzICFLzoH143LcYJ+qcggWoA3R4uLmuAdb1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SviLd61vzICFLzoH143LcYJ+qcggWoA3R4uLmuAdb1Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/3_1.hps42725dk.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\3_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VYhD1LXr2hMih+tpHy6kT2HhszeGiIf9Cr5j1jOdMWw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hps42725dk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VYhD1LXr2hMih+tpHy6kT2HhszeGiIf9Cr5j1jOdMWw="
+        }
+      ]
+    },
+    {
+      "Route": "images/3_1.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\3_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VYhD1LXr2hMih+tpHy6kT2HhszeGiIf9Cr5j1jOdMWw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VYhD1LXr2hMih+tpHy6kT2HhszeGiIf9Cr5j1jOdMWw="
+        }
+      ]
+    },
+    {
+      "Route": "images/4_1.13rzmqnclm.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\4_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I55b4/DEajnwYPZSaEhJ/xlfN9K92VxR9TAHtFfzi5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "13rzmqnclm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I55b4/DEajnwYPZSaEhJ/xlfN9K92VxR9TAHtFfzi5s="
+        }
+      ]
+    },
+    {
+      "Route": "images/4_1.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\4_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I55b4/DEajnwYPZSaEhJ/xlfN9K92VxR9TAHtFfzi5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I55b4/DEajnwYPZSaEhJ/xlfN9K92VxR9TAHtFfzi5s="
+        }
+      ]
+    },
+    {
+      "Route": "images/5_1.bzqgs40kza.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\5_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aefTXF57ZaSEOGgxR7msoRC2ZwtQywOTrFFkk6zB4TI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bzqgs40kza"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aefTXF57ZaSEOGgxR7msoRC2ZwtQywOTrFFkk6zB4TI="
+        }
+      ]
+    },
+    {
+      "Route": "images/5_1.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\5_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aefTXF57ZaSEOGgxR7msoRC2ZwtQywOTrFFkk6zB4TI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aefTXF57ZaSEOGgxR7msoRC2ZwtQywOTrFFkk6zB4TI="
+        }
+      ]
+    },
+    {
+      "Route": "images/6_1.1tf220w4u1.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\6_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hf6RODunFZ43anADSh1fC/qnJUE85rIQLpwbBAM5ODk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1tf220w4u1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hf6RODunFZ43anADSh1fC/qnJUE85rIQLpwbBAM5ODk="
+        }
+      ]
+    },
+    {
+      "Route": "images/6_1.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\6_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hf6RODunFZ43anADSh1fC/qnJUE85rIQLpwbBAM5ODk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hf6RODunFZ43anADSh1fC/qnJUE85rIQLpwbBAM5ODk="
+        }
+      ]
+    },
+    {
+      "Route": "images/7_1.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\7_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyy1PgIUIeWER6PClDb+DTBOiFZkXziiSOYRwLgiYYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyy1PgIUIeWER6PClDb+DTBOiFZkXziiSOYRwLgiYYo="
+        }
+      ]
+    },
+    {
+      "Route": "images/7_1.xdtf5jsyji.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\7_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19363"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eyy1PgIUIeWER6PClDb+DTBOiFZkXziiSOYRwLgiYYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xdtf5jsyji"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eyy1PgIUIeWER6PClDb+DTBOiFZkXziiSOYRwLgiYYo="
+        }
+      ]
+    },
+    {
+      "Route": "images/8_1.52zmxtnv9u.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\8_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AyA445qGJamTzX+ucAF22sZRHs8owa8kaZxF1Q5MfuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "52zmxtnv9u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AyA445qGJamTzX+ucAF22sZRHs8owa8kaZxF1Q5MfuU="
+        }
+      ]
+    },
+    {
+      "Route": "images/8_1.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\8_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AyA445qGJamTzX+ucAF22sZRHs8owa8kaZxF1Q5MfuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AyA445qGJamTzX+ucAF22sZRHs8owa8kaZxF1Q5MfuU="
+        }
+      ]
+    },
+    {
+      "Route": "images/9.2b9nsrq0tl.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Iul5LbD79NDx3+yF9GRrR1f9B/B0v+dINXG+KgdHrUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2b9nsrq0tl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Iul5LbD79NDx3+yF9GRrR1f9B/B0v+dINXG+KgdHrUo="
+        }
+      ]
+    },
+    {
+      "Route": "images/9.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Iul5LbD79NDx3+yF9GRrR1f9B/B0v+dINXG+KgdHrUo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Iul5LbD79NDx3+yF9GRrR1f9B/B0v+dINXG+KgdHrUo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Beefree-logo.p2gl2zx254.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\Beefree-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oYJJOLkAOuMmH5XYEhOdgXereHStdu5Q7VeX0jKZd/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p2gl2zx254"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Beefree-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oYJJOLkAOuMmH5XYEhOdgXereHStdu5Q7VeX0jKZd/k="
+        }
+      ]
+    },
+    {
+      "Route": "images/Beefree-logo.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\Beefree-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oYJJOLkAOuMmH5XYEhOdgXereHStdu5Q7VeX0jKZd/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oYJJOLkAOuMmH5XYEhOdgXereHStdu5Q7VeX0jKZd/k="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-1.291281xd1j.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KpHvWWd5BL68OtK75YlsbIIOwY5KJCnP43QHW3fu+nw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "291281xd1j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image-1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KpHvWWd5BL68OtK75YlsbIIOwY5KJCnP43QHW3fu+nw="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-1.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KpHvWWd5BL68OtK75YlsbIIOwY5KJCnP43QHW3fu+nw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KpHvWWd5BL68OtK75YlsbIIOwY5KJCnP43QHW3fu+nw="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-2.393pdca34q.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SeYj0jVGPIrUA+zZK9VrzsCxfduulpe7grssZv6wPRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "393pdca34q"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image-2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SeYj0jVGPIrUA+zZK9VrzsCxfduulpe7grssZv6wPRc="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-2.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SeYj0jVGPIrUA+zZK9VrzsCxfduulpe7grssZv6wPRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SeYj0jVGPIrUA+zZK9VrzsCxfduulpe7grssZv6wPRc="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-3.nq4t3z83zq.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0xUNP8Tr4dM4ZYRMH5lvj2Yy1PEExQKK85R7AFkna4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nq4t3z83zq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image-3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0xUNP8Tr4dM4ZYRMH5lvj2Yy1PEExQKK85R7AFkna4="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-3.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P0xUNP8Tr4dM4ZYRMH5lvj2Yy1PEExQKK85R7AFkna4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P0xUNP8Tr4dM4ZYRMH5lvj2Yy1PEExQKK85R7AFkna4="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-4.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6HG5qUF/azxXK4qe7tBcpEH1XJnl5SEtX5WKqNTnn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f6HG5qUF/azxXK4qe7tBcpEH1XJnl5SEtX5WKqNTnn8="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-4.xczuw0n7th.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6HG5qUF/azxXK4qe7tBcpEH1XJnl5SEtX5WKqNTnn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xczuw0n7th"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image-4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f6HG5qUF/azxXK4qe7tBcpEH1XJnl5SEtX5WKqNTnn8="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-5.0qfslcnxxz.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCy0q7VPiWr0N9IjrKR3nmGmalIb1UTb6uIHp+E3+AU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qfslcnxxz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image-5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCy0q7VPiWr0N9IjrKR3nmGmalIb1UTb6uIHp+E3+AU="
+        }
+      ]
+    },
+    {
+      "Route": "images/image-5.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\image-5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCy0q7VPiWr0N9IjrKR3nmGmalIb1UTb6uIHp+E3+AU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCy0q7VPiWr0N9IjrKR3nmGmalIb1UTb6uIHp+E3+AU="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo_3.8zg6uhw14z.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\logo_3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGKl/+wXV5WRE4jxc5/LFHojsMTCQnsP/gDRGWM0/cg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8zg6uhw14z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo_3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGKl/+wXV5WRE4jxc5/LFHojsMTCQnsP/gDRGWM0/cg="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo_3.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\logo_3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9725"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jGKl/+wXV5WRE4jxc5/LFHojsMTCQnsP/gDRGWM0/cg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jGKl/+wXV5WRE4jxc5/LFHojsMTCQnsP/gDRGWM0/cg="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo2_1.i5mdsvjfif.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\logo2_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"muZ80JusPbGLxlVIii+4fKnIM8Ch8pIey41FQDK75es=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i5mdsvjfif"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo2_1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-muZ80JusPbGLxlVIii+4fKnIM8Ch8pIey41FQDK75es="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo2_1.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\logo2_1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"muZ80JusPbGLxlVIii+4fKnIM8Ch8pIey41FQDK75es=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-muZ80JusPbGLxlVIii+4fKnIM8Ch8pIey41FQDK75es="
+        }
+      ]
+    },
+    {
+      "Route": "images/onde.mxw1yudw1f.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\onde.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+saw8Ozu2bFLtxrol4oZ81ptpPV++X+dsWlfjnHN19U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mxw1yudw1f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/onde.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+saw8Ozu2bFLtxrol4oZ81ptpPV++X+dsWlfjnHN19U="
+        }
+      ]
+    },
+    {
+      "Route": "images/onde.png",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\images\\onde.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+saw8Ozu2bFLtxrol4oZ81ptpPV++X+dsWlfjnHN19U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Mar 2025 19:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+saw8Ozu2bFLtxrol4oZ81ptpPV++X+dsWlfjnHN19U="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a27e836b-2228-499d-85fd-b06e78e70a61_stewie.gta35jcvgf.jpg",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\uploads\\a27e836b-2228-499d-85fd-b06e78e70a61_stewie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 06:36:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gta35jcvgf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a27e836b-2228-499d-85fd-b06e78e70a61_stewie.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a27e836b-2228-499d-85fd-b06e78e70a61_stewie.jpg",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\uploads\\a27e836b-2228-499d-85fd-b06e78e70a61_stewie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 06:36:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ac3d0961-d5c2-45bb-9083-18b778680541_stewie.gta35jcvgf.jpg",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\uploads\\ac3d0961-d5c2-45bb-9083-18b778680541_stewie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 09:47:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gta35jcvgf"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/ac3d0961-d5c2-45bb-9083-18b778680541_stewie.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/ac3d0961-d5c2-45bb-9083-18b778680541_stewie.jpg",
+      "AssetFile": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\wwwroot\\uploads\\ac3d0961-d5c2-45bb-9083-18b778680541_stewie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 09:47:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNWodJYHWonJVyMNl5PlVqyeCOslftDuWfS5wTXBikk="
+        }
+      ]
+    }
+  ]
+}

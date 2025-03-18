@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\BookingReviewApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\dtos\\bookingpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\dtos\\bookingpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\entities\\bookingpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\entities\\bookingpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\dtos\\postsharedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\dtos\\postsharedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\dtos\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\repositories\\bookingpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\repositories\\bookingpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Migrations\\20250317031531_DbInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookingReviewApp\\Migrations\\20250317031531_DbInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\entities\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\entities\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\dtos\\achievementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\dtos\\achievementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\repositories\\irepository\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\repositories\\irepository\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|d:\\projects\\bookingreviewapp\\bookingreviewapp\\migrations\\20250317032845_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A21A21-BA81-4F5E-AEC1-34E87593C5EC}|BookingReviewApp\\BookingReviewApp.csproj|solutionrelative:bookingreviewapp\\migrations\\20250317032845_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Program.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Program.cs",
+              "RelativeToolTip": "BookingReviewApp\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAF4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:39:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250317032845_DbInit.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Migrations\\20250317032845_DbInit.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Migrations\\20250317032845_DbInit.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Migrations\\20250317032845_DbInit.cs",
+              "RelativeToolTip": "BookingReviewApp\\Migrations\\20250317032845_DbInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:28:46.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Entities\\User.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\User.cs",
+              "RelativeToolTip": "BookingReviewApp\\Entities\\User.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA2wCQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:27:48.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Entities\\Transaction.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Transaction.cs",
+              "RelativeToolTip": "BookingReviewApp\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:27:46.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Report.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Entities\\Report.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Report.cs",
+              "RelativeToolTip": "BookingReviewApp\\Entities\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:27:29.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Controllers\\BookingController.cs*",
+              "RelativeToolTip": "BookingReviewApp\\Controllers\\BookingController.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:58:25.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingPostDto.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\BookingPostDto.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Dtos\\BookingPostDto.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\BookingPostDto.cs",
+              "RelativeToolTip": "BookingReviewApp\\Dtos\\BookingPostDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:57:24.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingPost.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\BookingPost.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Entities\\BookingPost.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\BookingPost.cs",
+              "RelativeToolTip": "BookingReviewApp\\Entities\\BookingPost.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:42:33.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostShareDto.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\PostShareDto.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Dtos\\PostShareDto.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\PostShareDto.cs",
+              "RelativeToolTip": "BookingReviewApp\\Dtos\\PostShareDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:27:16.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportDto.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\ReportDto.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Dtos\\ReportDto.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\ReportDto.cs",
+              "RelativeToolTip": "BookingReviewApp\\Dtos\\ReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:27:09.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Services\\LocationService.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Services\\LocationService.cs",
+              "RelativeToolTip": "BookingReviewApp\\Services\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:02:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Dtos\\TransactionDto.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\TransactionDto.cs",
+              "RelativeToolTip": "BookingReviewApp\\Dtos\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:27:05.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Dtos\\ReviewDto.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\ReviewDto.cs",
+              "RelativeToolTip": "BookingReviewApp\\Dtos\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:26:56.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookingReviewApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwD8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:52:04.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Entities\\Review.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Review.cs",
+              "RelativeToolTip": "BookingReviewApp\\Entities\\Review.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:42:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "BookingReviewApp\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:24:07.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingPostRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Repositories\\BookingPostRepository.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Repositories\\BookingPostRepository.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Repositories\\BookingPostRepository.cs",
+              "RelativeToolTip": "BookingReviewApp\\Repositories\\BookingPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:24:00.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Controllers\\PostController.cs",
+              "RelativeToolTip": "BookingReviewApp\\Controllers\\PostController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:46:58.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BookingReviewApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:16:43.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Achievement.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Achievement.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Entities\\Achievement.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Achievement.cs",
+              "RelativeToolTip": "BookingReviewApp\\Entities\\Achievement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:12:30.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AchievementDto.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\AchievementDto.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Dtos\\AchievementDto.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\AchievementDto.cs",
+              "RelativeToolTip": "BookingReviewApp\\Dtos\\AchievementDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:12:39.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250317031531_DbInit.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Migrations\\20250317031531_DbInit.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Migrations\\20250317031531_DbInit.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Migrations\\20250317031531_DbInit.cs",
+              "RelativeToolTip": "BookingReviewApp\\Migrations\\20250317031531_DbInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:15:31.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Repositories\\PostRepository.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "BookingReviewApp\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:05:25.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Repositories\\IRepository\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Repositories\\IRepository\\IPostRepository.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Repositories\\IRepository\\IPostRepository.cs",
+              "RelativeToolTip": "BookingReviewApp\\Repositories\\IRepository\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:05:14.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Entities\\Post.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Entities\\Post.cs",
+              "RelativeToolTip": "BookingReviewApp\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:56:11.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\PostDto.cs",
+              "RelativeDocumentMoniker": "BookingReviewApp\\Dtos\\PostDto.cs",
+              "ToolTip": "D:\\Projects\\BookingReviewApp\\BookingReviewApp\\Dtos\\PostDto.cs",
+              "RelativeToolTip": "BookingReviewApp\\Dtos\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:13:03.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

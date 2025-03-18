@@ -1,0 +1,85 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.register-card {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 360px;
+  text-align: center;
+}
+
+.register-card h2 {
+  color: #1877f2;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.register-card p {
+  color: #606770;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.register-card input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.register-card input:focus {
+  border-color: #1877f2;
+  outline: none;
+}
+
+.register-card button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background: #42b72a;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.register-card button:hover {
+  background: #36a420;
+}
+
+.register-card span {
+  color: red;
+  font-size: 12px;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.success-message {
+  color: green;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.register-card a {
+  color: #1877f2;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.register-card a:hover {
+  text-decoration: underline;
+}
